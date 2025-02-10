@@ -1,0 +1,27 @@
+      <!--straight into the code, put html and body l8r-->
+      <!--make icon-->
+<form>
+  <input type="button">home</input>
+      <!--or input -->
+</form>
+<br><br>
+      <!--make heading-->
+<h1>Maintenance</h1>
+      <!--make button-->
+<label></label>
+<input type="button" id="b2">Add schedule</input>
+      <!--make table thingy-->
+<table>
+</table>
+  <tr>
+    <th>Purpose</th>
+    <th>Main. price</th>
+    <th>Sched. date</th>
+    <th>Desc.</th>
+    <th>Tenant</th>
+    <th>Room</th>
+  </tr>
+  <tr>
+    <th colspan="6">No scheds found</th>
+  </tr>
+</table>
